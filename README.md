@@ -1,4 +1,4 @@
 # first_repo
 This is my first git repository.
 <br>
-Author - Muhammad Abdullah
+Author - Muhammad Abdullah student of GCUF
